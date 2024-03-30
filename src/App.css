@@ -39,10 +39,10 @@ body {
     #ffeeee
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-  margin: 0; /* Remove default margin */
-  padding: 0; /* Remove default padding */
-  height: 100%; /* Ensure full height */
-  width: 100%; /* Ensure full width */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
 }
 
 @keyframes App-logo-spin {

@@ -1,4 +1,3 @@
-// Importing necessary libraries and components
 import "./App.css"; // Importing custom CSS for styling
 import ProductsList from "./components/ProductsList"; // Importing the ProductsList component to display products
 import "bootstrap/dist/css/bootstrap.min.css"; // Importing Bootstrap for styling
